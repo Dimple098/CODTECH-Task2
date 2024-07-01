@@ -1,0 +1,49 @@
+Name: Dimple choudry
+
+Company: CODTECH IT SOLUTIONS
+
+ID: CT4DM2704
+
+Domain: Digital Marketing 
+
+Duration: June to July 2024
+
+Mentor: Neela Santhosh Kumar
+
+
+Overview of the project
+
+Project: GOOGLE ANALYTICS SETUP AND REPORTING
+
+Objective:
+
+This report documents the implementation of Google Analytics 4 (GA4) on the Google Merchandise Store website. 
+The purpose of this implementation is to track user behavior, generate detailed reports, and derive data-driven recommendations
+to optimize the website and digital marketing strategies.
+
+Google Analytics Setup:
+
+Google Analytics 4 property "Google Merchandise Store (web data)" was created for the website. 
+The tracking code provided by GA4 was implemented on all pages of the website to start collecting data.
+
+Configuration:
+
+- Events and parameters were defined to track key user interactions such as pageviews, clicks, and conversions.
+- Enhanced measurement was enabled to automatically track common user interactions like page scrolls and outbound clicks.
+- User properties were configured to track user demographics and interests, providing insights into the audience.
+
+Custom Reports and Dashboards:
+
+Custom reports and dashboards were created to monitor key metrics:
+Engagement Dashboard: Provides an overview of user engagement metrics including session duration, bounce rate, and average pages per session.
+Conversion Report: Tracks conversion events such as purchases and form submissions to measure the effectiveness of marketing campaigns.
+Traffic Sources Report: Analyzes the sources of website traffic (e.g., organic search, direct, referral) to identify the most effective channels for driving traffic.
+
+Analysis and Recommendations:
+
+- Popular Pages: Analysis reveals that the "Featured Products" page receives the highest traffic, suggesting its importance in the user journey.
+  Recommendation: Optimize this page for conversions by highlighting top-selling products.
+- User Engagement: The average session duration is relatively low, indicating a need to improve website engagement. 
+  Recommendation: Enhance website content and user experience to increase engagement and reduce bounce rates.
+- Marketing Campaign Effectiveness: Analysis of conversion events attributed to different marketing campaigns shows that email marketing drives the highest conversions. 
+  Recommendation: Allocate more resources to email marketing campaigns to maximize ROI.
